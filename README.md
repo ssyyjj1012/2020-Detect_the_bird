@@ -14,3 +14,12 @@ File descriptions
 Train data - 2468
 Test data - 604
 sampleSubmission.csv - ID,Category
+
+
+
+<대회내용>
+![image](https://user-images.githubusercontent.com/52689953/124404020-113bab00-dd74-11eb-985a-c174e30b7c9d.png)
+
+
+<결과>
+![image](https://user-images.githubusercontent.com/52689953/124404048-30d2d380-dd74-11eb-8d34-d57cadf35ae4.png)
